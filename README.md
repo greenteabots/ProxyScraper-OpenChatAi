@@ -1,3 +1,5 @@
+THIS CODE WAS FULLY WRITTEN BY chat.openai.com
+
 This code uses the Google Search API to search the web for websites that list free proxies, and then makes requests to those websites to scrape the proxies. It stores the proxies in a list and saves the list to a file.
 
 Keep in mind that using a search engine API requires an API key and may have usage limits and costs associated with it. 
