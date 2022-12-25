@@ -7,3 +7,10 @@ Web scraping is also subject to the terms of service and policies of the website
 
 
 To allow the script to search for new proxy websites that can be scraped, you can use a search engine API to search the web for websites that list proxies. There are several search engine APIs available, such as the Google Search API and the Bing Search API, that allow you to make requests to their search engines and receive results in the form of structured data.
+
+
+Change your Google api key and edit the settings you want.
+
+To install do : pip install requirements.txt
+
+To run do : python scraper.py
